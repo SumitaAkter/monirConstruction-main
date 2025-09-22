@@ -26,6 +26,12 @@ import brand5 from '../assets/brand-5.png';
 import brand6 from '../assets/brand-6.png';
 import brand7 from '../assets/brand-7.png';
 import brand8 from '../assets/brand-8.png';
+import brand9 from '../assets/brand-9.png';
+import brand10 from '../assets/brand-10.png';
+import brand11 from '../assets/brand-11.png';
+import brand12 from '../assets/brand-12.png';
+import brand13 from '../assets/brand-13.png';
+import brand14 from '../assets/brand-14.png';
 
 import hero1 from '../assets/Hero-1.png';
 import hero2 from '../assets/Hero-2.png';
@@ -385,6 +391,24 @@ const Index = () => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <img src={brand8} className='w-[200px] h-[80px] object-cover border rounded border-black p-3' alt="" />
+                        </SwiperSlide>
+                        <SwiperSlide>
+                            <img src={brand9} className='w-[200px] h-[80px] object-cover border rounded border-black p-3' alt="" />
+                        </SwiperSlide>
+                        <SwiperSlide>
+                            <img src={brand10} className='w-[200px] h-[80px] object-cover border rounded border-black p-3' alt="" />
+                        </SwiperSlide>
+                        <SwiperSlide>
+                            <img src={brand11} className='w-[200px] h-[80px] object-cover border rounded border-black p-3' alt="" />
+                        </SwiperSlide>
+                        <SwiperSlide>
+                            <img src={brand12} className='w-[200px] h-[80px] object-cover border rounded border-black p-3' alt="" />
+                        </SwiperSlide>
+                        <SwiperSlide>
+                            <img src={brand13} className='w-[200px] h-[80px] object-cover border rounded border-black p-3' alt="" />
+                        </SwiperSlide>
+                        <SwiperSlide>
+                            <img src={brand14} className='w-[200px] h-[80px] object-cover border rounded border-black p-3' alt="" />
                         </SwiperSlide>
                     </Swiper>
                 </div>
