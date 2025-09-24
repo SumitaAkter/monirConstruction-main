@@ -178,6 +178,7 @@ function Projects() {
                                     <span className='price font-semibold'>Price: {product.price}</span>
                                 )}
                                 <p className='font-semibold'>Type: <span className='font-normal'>{product.type}</span></p>
+                                <p className='font-semibold'>Total Floor: <span className='font-normal'>{product.floor}</span></p>
                                 <h3 className='title pt-1 pb-2 font-semibold text-xl text-[#ff823a]'>
                                     Title: <span>{product.productname}</span>
                                 </h3>
